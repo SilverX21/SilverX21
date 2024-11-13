@@ -2,7 +2,7 @@
 
 ### .NET Developer
 
-👋 Hi, I'm Nuno Araújo, a Full Stack .NET Developer with a focus on building scalable, high-quality software solutions. Skilled in .NET Core, C#, SQL Server, HTML, JavaScript and CSS, I work on projects ranging from RESTful APIs to full-stack implementations with Umbraco CMS. 
+👋 Hi, I'm Nuno Araújo, a Full Stack .NET Developer with a focus on building scalable, high-quality software solutions. Skilled in .NET Core, C#, SQL Server, HTML, JavaScript and CSS, I work on projects ranging from RESTful APIs to full-stack implementations.
 
 I emphasize clean, efficient code and have completed certifications in React (still working to improve this 🤠), xUnit Testing, and Dependency Injection. 
 
