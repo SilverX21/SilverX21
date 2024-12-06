@@ -10,7 +10,7 @@ Outside work, I stay active in Scouts and enjoy music, photography, and sports �
 
 # 💫 About Me:
 * 🌍  I'm based in Portugal
-* 🧠  I'm learning Docker and React
+* 🧠  I'm learning Docker and Vue
 * 🤝  I'm open to collaborating on interesting and up to date projects in the .NET community
 
 # 💻 Tech Stack:
