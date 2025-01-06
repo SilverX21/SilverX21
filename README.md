@@ -2,15 +2,15 @@
 
 ### .NET Developer
 
-👋 Hi, I'm Nuno Araújo, a Full Stack .NET Developer with a focus on building scalable, high-quality software solutions. Skilled in .NET Core, C#, SQL Server, HTML, JavaScript and CSS, I work on projects ranging from RESTful APIs to full-stack implementations.
+👋 Hi, I'm Nuno Araújo, a Full Stack .NET Developer with a focus on building a strong foundation in my knowledge as a software developer. My main skills are .NET Core, C#, SQL Server, HTML, JavaScript and CSS, I like to work on projects ranging from RESTful APIs to full-stack implementations.
 
-I emphasize clean, efficient code and have completed certifications in React (still working to improve this 🤠), xUnit Testing, and Dependency Injection. 
+I emphasize in clean and efficient code and I'm currently trying to lean some new skills, such as Docker, Vue and AWS 🚀 
 
-Outside work, I stay active in Scouts and enjoy music, photography, and sports 🏃.
+Outside work, I stay active in Scouts and enjoy music, photography, and sports 🏃
 
 # 💫 About Me:
 * 🌍  I'm based in Portugal
-* 🧠  I'm learning Docker and Vue
+* 🧠  I'm learning Docker, AWS Vue
 * 🤝  I'm open to collaborating on interesting and up to date projects in the .NET community
 
 # 💻 Tech Stack:
