@@ -4,7 +4,7 @@
 
 👋 Hi, I'm Nuno Araújo, a Full Stack .NET Developer with a focus on building a strong foundation in my knowledge as a software developer. My main skills are .NET Core, C#, SQL Server, HTML, JavaScript and CSS, I like to work on projects ranging from RESTful APIs to full-stack implementations.
 
-I emphasize in clean and efficient code and I'm currently trying to lean some new skills, such as Docker, Vue and AWS 🚀 
+I'm a young developer, that's currently working on to improve my problem solving skills. Also, I'm currently trying to lean some new skills, such as Docker, Vue and AWS 🚀 
 
 Outside work, I stay active in Scouts and enjoy music, photography, and sports 🏃
 
