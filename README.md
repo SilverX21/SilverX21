@@ -4,14 +4,14 @@
 
 👋 Hi, I'm Nuno Araújo, a Full Stack .NET Developer with a focus on building a strong foundation in my knowledge as a software developer. My main skills are .NET Core, C#, SQL Server, HTML, JavaScript and CSS, I like to work on projects ranging from RESTful APIs to full-stack implementations.
 
-I'm a young developer, that's currently working on to improve my problem solving skills. Also, I'm currently trying to lean some new skills, such as Docker, Vue and AWS 🚀 
+I'm a young developer who's currently working on improving my problem-solving skills.
 
 Outside work, I stay active in Scouts and enjoy music, photography, and sports 🏃
 
 # 💫 About Me:
 * 🌍  I'm based in Portugal
-* 🧠  I'm learning Docker, AWS Vue
-* 🤝  I'm open to collaborating on interesting and up to date projects in the .NET community
+* 🧠  I'm learning Docker and AWS
+* 🤝  I'm open to collaborating on interesting and up-to-date projects in the .NET community
 
 # 💻 Tech Stack:
 
@@ -27,7 +27,10 @@ Outside work, I stay active in Scouts and enjoy music, photography, and sports �
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### IDE
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+
+### 🚀 IDE
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
